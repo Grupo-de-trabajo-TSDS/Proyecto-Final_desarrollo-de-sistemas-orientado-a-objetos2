@@ -1609,24 +1609,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ospos\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\adria\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\Users\\ospos\\repos\\clubd\\clubd.csproj",
+      "projectUniqueName": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\clubd.csproj",
       "projectName": "clubd",
-      "projectPath": "J:\\Users\\ospos\\repos\\clubd\\clubd.csproj",
-      "packagesPath": "C:\\Users\\ospos\\.nuget\\packages\\",
-      "outputPath": "J:\\Users\\ospos\\repos\\clubd\\obj\\",
+      "projectPath": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\clubd.csproj",
+      "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ospos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1634,7 +1629,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1652,8 +1646,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -1683,7 +1676,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

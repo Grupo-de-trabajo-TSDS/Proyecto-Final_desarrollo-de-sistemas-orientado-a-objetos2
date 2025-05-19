@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "J:\\Users\\ospos\\repos\\clubd\\",
+  "WorkspaceRootPath": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|j:\\users\\ospos\\repos\\clubd\\classdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|solutionrelative:classdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|j:\\users\\ospos\\repos\\clubd\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|solutionrelative:clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|j:\\users\\ospos\\repos\\clubd\\clubdep.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|solutionrelative:clubdep.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|j:\\users\\ospos\\repos\\clubd\\clubdep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\clubdep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|solutionrelative:clubdep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|j:\\users\\ospos\\repos\\clubd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|c:\\users\\adria\\documents\\proyecto-final_desarrollo-de-sistemas-orientado-a-objetos2\\clubdep.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|solutionrelative:clubdep.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|c:\\users\\adria\\documents\\proyecto-final_desarrollo-de-sistemas-orientado-a-objetos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|j:\\users\\ospos\\repos\\clubd\\clubdep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|c:\\users\\adria\\documents\\proyecto-final_desarrollo-de-sistemas-orientado-a-objetos2\\classdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|solutionrelative:classdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|c:\\users\\adria\\documents\\proyecto-final_desarrollo-de-sistemas-orientado-a-objetos2\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|solutionrelative:clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|c:\\users\\adria\\documents\\proyecto-final_desarrollo-de-sistemas-orientado-a-objetos2\\clubdep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7BA9250-E74A-4C2C-880C-425CD0E4B64A}|clubd.csproj|solutionrelative:clubdep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -46,37 +54,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Clubdep.cs",
-              "DocumentMoniker": "J:\\Users\\ospos\\repos\\clubd\\Clubdep.cs",
-              "RelativeDocumentMoniker": "Clubdep.cs",
-              "ToolTip": "J:\\Users\\ospos\\repos\\clubd\\Clubdep.cs",
-              "RelativeToolTip": "Clubdep.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T22:56:48.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "clubDep.Designer.cs",
-              "DocumentMoniker": "J:\\Users\\ospos\\repos\\clubd\\clubDep.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\clubDep.Designer.cs",
               "RelativeDocumentMoniker": "clubDep.Designer.cs",
-              "ToolTip": "J:\\Users\\ospos\\repos\\clubd\\clubDep.Designer.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\clubDep.Designer.cs",
               "RelativeToolTip": "clubDep.Designer.cs",
-              "ViewState": "AgIAAJ0CAAAAAAAAAAAkwKkCAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T22:21:16.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "J:\\Users\\ospos\\repos\\clubd\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "J:\\Users\\ospos\\repos\\clubd\\Program.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,24 +80,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Classdb.cs",
-              "DocumentMoniker": "J:\\Users\\ospos\\repos\\clubd\\Classdb.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\Classdb.cs",
               "RelativeDocumentMoniker": "Classdb.cs",
-              "ToolTip": "J:\\Users\\ospos\\repos\\clubd\\Classdb.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\Classdb.cs",
               "RelativeToolTip": "Classdb.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T22:31:07.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Clases.cs",
-              "DocumentMoniker": "J:\\Users\\ospos\\repos\\clubd\\Clases.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\Clases.cs",
               "RelativeDocumentMoniker": "Clases.cs",
-              "ToolTip": "J:\\Users\\ospos\\repos\\clubd\\Clases.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\Clases.cs",
               "RelativeToolTip": "Clases.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,15 +106,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Clubdep.cs [Design]",
-              "DocumentMoniker": "J:\\Users\\ospos\\repos\\clubd\\Clubdep.cs",
+              "DocumentIndex": 0,
+              "Title": "Clubdep.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\Clubdep.cs",
               "RelativeDocumentMoniker": "Clubdep.cs",
-              "ToolTip": "J:\\Users\\ospos\\repos\\clubd\\Clubdep.cs [Design]",
-              "RelativeToolTip": "Clubdep.cs [Design]",
+              "ToolTip": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\Clubdep.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Clubdep.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T22:22:17.595Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clubdep.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\Clubdep.cs",
+              "RelativeDocumentMoniker": "Clubdep.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\Clubdep.cs",
+              "RelativeToolTip": "Clubdep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:56:48.512Z",
+              "EditorCaption": ""
             }
           ]
         }
