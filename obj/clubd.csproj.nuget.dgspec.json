@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\clubd.csproj": {}
+    "J:\\Users\\ospos\\Documents\\GitHub\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\clubd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\clubd.csproj": {
+    "J:\\Users\\ospos\\Documents\\GitHub\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\clubd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\clubd.csproj",
+        "projectUniqueName": "J:\\Users\\ospos\\Documents\\GitHub\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\clubd.csproj",
         "projectName": "clubd",
-        "projectPath": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\clubd.csproj",
-        "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adria\\Documents\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\obj\\",
+        "projectPath": "J:\\Users\\ospos\\Documents\\GitHub\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\clubd.csproj",
+        "packagesPath": "C:\\Users\\ospos\\.nuget\\packages\\",
+        "outputPath": "J:\\Users\\ospos\\Documents\\GitHub\\Proyecto-Final_desarrollo-de-sistemas-orientado-a-objetos2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ospos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -69,7 +75,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

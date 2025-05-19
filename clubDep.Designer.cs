@@ -81,7 +81,6 @@ namespace clubd
             toolTip3 = new ToolTip(components);
             toolTip4 = new ToolTip(components);
             toolTip5 = new ToolTip(components);
-            toolTip6 = new ToolTip(components);
             ingresoSis.SuspendLayout();
             InicioAdmin.SuspendLayout();
             inscCliente.SuspendLayout();
@@ -99,15 +98,15 @@ namespace clubd
             ingresoSis.Controls.Add(txtMainUser);
             ingresoSis.Location = new Point(0, -3);
             ingresoSis.Name = "ingresoSis";
-            ingresoSis.Size = new Size(802, 398);
+            ingresoSis.Size = new Size(802, 451);
             ingresoSis.TabIndex = 0;
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(254, 237);
+            label3.Location = new Point(254, 269);
             label3.Name = "label3";
-            label3.Size = new Size(70, 15);
+            label3.Size = new Size(77, 17);
             label3.TabIndex = 3;
             label3.Text = "Contraseña:";
             // 
@@ -115,7 +114,7 @@ namespace clubd
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label2.Location = new Point(287, 93);
+            label2.Location = new Point(287, 105);
             label2.Name = "label2";
             label2.Size = new Size(229, 37);
             label2.TabIndex = 1;
@@ -126,7 +125,7 @@ namespace clubd
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label4.Location = new Point(217, 23);
+            label4.Location = new Point(217, 26);
             label4.Name = "label4";
             label4.Size = new Size(368, 45);
             label4.TabIndex = 0;
@@ -134,13 +133,12 @@ namespace clubd
             // 
             // txtPassword
             // 
-            txtPassword.Location = new Point(337, 237);
+            txtPassword.Location = new Point(337, 269);
             txtPassword.Name = "txtPassword";
             txtPassword.PasswordChar = '*';
-            txtPassword.Size = new Size(192, 23);
+            txtPassword.Size = new Size(192, 25);
             txtPassword.TabIndex = 4;
             toolTip2.SetToolTip(txtPassword, "Ingrese su clave de acceso y oprima ENTER");
-            toolTip6.SetToolTip(txtPassword, "Escriba su contraseña y oprima Enter");
             txtPassword.TextChanged += password_TextChanged;
             txtPassword.KeyDown += password_KeyDown;
             // 
@@ -148,7 +146,7 @@ namespace clubd
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Arial Narrow", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(273, 177);
+            label1.Location = new Point(273, 201);
             label1.Name = "label1";
             label1.Size = new Size(58, 20);
             label1.TabIndex = 0;
@@ -157,9 +155,9 @@ namespace clubd
             // 
             // txtMainUser
             // 
-            txtMainUser.Location = new Point(337, 177);
+            txtMainUser.Location = new Point(337, 201);
             txtMainUser.Name = "txtMainUser";
-            txtMainUser.Size = new Size(192, 23);
+            txtMainUser.Size = new Size(192, 25);
             txtMainUser.TabIndex = 2;
             toolTip1.SetToolTip(txtMainUser, "Ingrese su nombre de usuario");
             txtMainUser.TextChanged += mainUser_TextChanged;
@@ -174,15 +172,15 @@ namespace clubd
             InicioAdmin.Controls.Add(label5);
             InicioAdmin.Location = new Point(0, 0);
             InicioAdmin.Name = "InicioAdmin";
-            InicioAdmin.Size = new Size(802, 398);
+            InicioAdmin.Size = new Size(802, 451);
             InicioAdmin.TabIndex = 0;
             // 
             // cmdListMorosos
             // 
             cmdListMorosos.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            cmdListMorosos.Location = new Point(315, 231);
+            cmdListMorosos.Location = new Point(315, 262);
             cmdListMorosos.Name = "cmdListMorosos";
-            cmdListMorosos.Size = new Size(172, 26);
+            cmdListMorosos.Size = new Size(172, 29);
             cmdListMorosos.TabIndex = 3;
             cmdListMorosos.Text = "Listado de morosos";
             toolTip4.SetToolTip(cmdListMorosos, "Emite listado de socios con cuotas atrasadas");
@@ -191,9 +189,9 @@ namespace clubd
             // 
             // txtDni
             // 
-            txtDni.Location = new Point(401, 133);
+            txtDni.Location = new Point(401, 151);
             txtDni.Name = "txtDni";
-            txtDni.Size = new Size(100, 23);
+            txtDni.Size = new Size(100, 25);
             txtDni.TabIndex = 2;
             toolTip3.SetToolTip(txtDni, "Ingrese DNI de la persona y presione Enter");
             txtDni.TextChanged += dni_TextChanged;
@@ -202,9 +200,9 @@ namespace clubd
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(301, 136);
+            label6.Location = new Point(301, 154);
             label6.Name = "label6";
-            label6.Size = new Size(83, 15);
+            label6.Size = new Size(94, 17);
             label6.TabIndex = 1;
             label6.Text = "Ingrese el DNI:";
             // 
@@ -212,7 +210,7 @@ namespace clubd
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label5.Location = new Point(320, 41);
+            label5.Location = new Point(320, 46);
             label5.Name = "label5";
             label5.Size = new Size(163, 30);
             label5.TabIndex = 0;
@@ -236,14 +234,14 @@ namespace clubd
             inscCliente.Controls.Add(label7);
             inscCliente.Location = new Point(0, 0);
             inscCliente.Name = "inscCliente";
-            inscCliente.Size = new Size(802, 398);
+            inscCliente.Size = new Size(802, 451);
             inscCliente.TabIndex = 0;
             // 
             // cmdVolver1
             // 
-            cmdVolver1.Location = new Point(515, 341);
+            cmdVolver1.Location = new Point(515, 386);
             cmdVolver1.Name = "cmdVolver1";
-            cmdVolver1.Size = new Size(75, 20);
+            cmdVolver1.Size = new Size(75, 23);
             cmdVolver1.TabIndex = 14;
             cmdVolver1.Text = "Volver";
             cmdVolver1.UseVisualStyleBackColor = true;
@@ -251,9 +249,9 @@ namespace clubd
             // 
             // cmdLimpiar
             // 
-            cmdLimpiar.Location = new Point(213, 341);
+            cmdLimpiar.Location = new Point(213, 386);
             cmdLimpiar.Name = "cmdLimpiar";
-            cmdLimpiar.Size = new Size(75, 20);
+            cmdLimpiar.Size = new Size(75, 23);
             cmdLimpiar.TabIndex = 13;
             cmdLimpiar.Text = "Limpiar";
             cmdLimpiar.UseVisualStyleBackColor = true;
@@ -262,9 +260,9 @@ namespace clubd
             // chkSocio
             // 
             chkSocio.AutoSize = true;
-            chkSocio.Location = new Point(372, 293);
+            chkSocio.Location = new Point(372, 332);
             chkSocio.Name = "chkSocio";
-            chkSocio.Size = new Size(55, 19);
+            chkSocio.Size = new Size(59, 21);
             chkSocio.TabIndex = 12;
             chkSocio.Text = "Socio";
             toolTip5.SetToolTip(chkSocio, "Al seleccionar Socio, debe cobrar la primera cuota societaria");
@@ -273,9 +271,9 @@ namespace clubd
             // cmdConfirma
             // 
             cmdConfirma.FlatStyle = FlatStyle.Popup;
-            cmdConfirma.Location = new Point(329, 341);
+            cmdConfirma.Location = new Point(329, 386);
             cmdConfirma.Name = "cmdConfirma";
-            cmdConfirma.Size = new Size(145, 20);
+            cmdConfirma.Size = new Size(145, 23);
             cmdConfirma.TabIndex = 11;
             cmdConfirma.Text = "Confirma inscripcion";
             cmdConfirma.UseVisualStyleBackColor = true;
@@ -283,82 +281,82 @@ namespace clubd
             // 
             // txtFichamed
             // 
-            txtFichamed.Location = new Point(546, 230);
+            txtFichamed.Location = new Point(546, 261);
             txtFichamed.Name = "txtFichamed";
             txtFichamed.PlaceholderText = "Nº de ficha médica";
-            txtFichamed.Size = new Size(187, 23);
+            txtFichamed.Size = new Size(187, 25);
             txtFichamed.TabIndex = 9;
             // 
             // txtConturgencia
             // 
-            txtConturgencia.Location = new Point(271, 229);
+            txtConturgencia.Location = new Point(271, 260);
             txtConturgencia.Name = "txtConturgencia";
             txtConturgencia.PlaceholderText = "Tel del contacto de urgencia";
-            txtConturgencia.Size = new Size(172, 23);
+            txtConturgencia.Size = new Size(172, 25);
             txtConturgencia.TabIndex = 8;
             // 
             // txtTelefono
             // 
-            txtTelefono.Location = new Point(68, 230);
+            txtTelefono.Location = new Point(68, 261);
             txtTelefono.Name = "txtTelefono";
             txtTelefono.PlaceholderText = "Ingrese el Teléfono";
-            txtTelefono.Size = new Size(100, 23);
+            txtTelefono.Size = new Size(100, 25);
             txtTelefono.TabIndex = 7;
             // 
             // txtEmail
             // 
-            txtEmail.Location = new Point(540, 170);
+            txtEmail.Location = new Point(540, 193);
             txtEmail.Name = "txtEmail";
             txtEmail.PlaceholderText = "Ingrese el Email";
-            txtEmail.Size = new Size(193, 23);
+            txtEmail.Size = new Size(193, 25);
             txtEmail.TabIndex = 6;
             // 
             // txtDireccion
             // 
-            txtDireccion.Location = new Point(273, 170);
+            txtDireccion.Location = new Point(273, 193);
             txtDireccion.Name = "txtDireccion";
             txtDireccion.PlaceholderText = "Ingrese la Dirección";
-            txtDireccion.Size = new Size(170, 23);
+            txtDireccion.Size = new Size(170, 25);
             txtDireccion.TabIndex = 5;
             // 
             // txtFechanac
             // 
-            txtFechanac.Location = new Point(69, 170);
+            txtFechanac.Location = new Point(69, 193);
             txtFechanac.Name = "txtFechanac";
             txtFechanac.PlaceholderText = "Fecha Nacimiento dd/mm/AAAA";
-            txtFechanac.Size = new Size(109, 23);
+            txtFechanac.Size = new Size(109, 25);
             txtFechanac.TabIndex = 4;
             txtFechanac.TextChanged += fechanac_TextChanged;
             // 
             // txtApellido
             // 
-            txtApellido.Location = new Point(540, 118);
+            txtApellido.Location = new Point(540, 134);
             txtApellido.Name = "txtApellido";
             txtApellido.PlaceholderText = "Ingrese el Apellido";
-            txtApellido.Size = new Size(193, 23);
+            txtApellido.Size = new Size(193, 25);
             txtApellido.TabIndex = 3;
             // 
             // txtNombre
             // 
-            txtNombre.Location = new Point(268, 118);
+            txtNombre.Location = new Point(268, 134);
             txtNombre.Name = "txtNombre";
             txtNombre.PlaceholderText = "Ingrese el Nombre";
-            txtNombre.Size = new Size(174, 23);
+            txtNombre.Size = new Size(174, 25);
             txtNombre.TabIndex = 2;
             // 
             // txtNuevoDni
             // 
-            txtNuevoDni.Location = new Point(69, 118);
+            txtNuevoDni.Location = new Point(69, 134);
             txtNuevoDni.Name = "txtNuevoDni";
             txtNuevoDni.ReadOnly = true;
-            txtNuevoDni.Size = new Size(109, 23);
+            txtNuevoDni.Size = new Size(109, 25);
             txtNuevoDni.TabIndex = 1;
             // 
             // label7
             // 
             label7.AutoSize = true;
             label7.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label7.Location = new Point(294, 34);
+            label7.Location = new Point(294, 39);
             label7.Name = "label7";
             label7.Size = new Size(214, 30);
             label7.TabIndex = 0;
@@ -389,15 +387,15 @@ namespace clubd
             actSocio.Controls.Add(label8);
             actSocio.Location = new Point(0, 0);
             actSocio.Name = "actSocio";
-            actSocio.Size = new Size(799, 398);
+            actSocio.Size = new Size(799, 451);
             actSocio.TabIndex = 5;
             actSocio.Paint += actSocio_Paint;
             // 
             // cmdVolver2
             // 
-            cmdVolver2.Location = new Point(362, 345);
+            cmdVolver2.Location = new Point(362, 391);
             cmdVolver2.Name = "cmdVolver2";
-            cmdVolver2.Size = new Size(75, 20);
+            cmdVolver2.Size = new Size(75, 23);
             cmdVolver2.TabIndex = 5;
             cmdVolver2.Text = "Inicio";
             cmdVolver2.UseVisualStyleBackColor = true;
@@ -405,9 +403,9 @@ namespace clubd
             // 
             // cmdCarnet
             // 
-            cmdCarnet.Location = new Point(432, 223);
+            cmdCarnet.Location = new Point(432, 253);
             cmdCarnet.Name = "cmdCarnet";
-            cmdCarnet.Size = new Size(92, 38);
+            cmdCarnet.Size = new Size(92, 43);
             cmdCarnet.TabIndex = 4;
             cmdCarnet.Text = "Emitir Carnet";
             cmdCarnet.UseVisualStyleBackColor = true;
@@ -415,9 +413,9 @@ namespace clubd
             // 
             // cmdPagoCS
             // 
-            cmdPagoCS.Location = new Point(274, 224);
+            cmdPagoCS.Location = new Point(274, 254);
             cmdPagoCS.Name = "cmdPagoCS";
-            cmdPagoCS.Size = new Size(117, 38);
+            cmdPagoCS.Size = new Size(117, 43);
             cmdPagoCS.TabIndex = 3;
             cmdPagoCS.Text = "Pago de cuota Social";
             cmdPagoCS.UseVisualStyleBackColor = true;
@@ -426,25 +424,25 @@ namespace clubd
             // label10
             // 
             label10.AutoSize = true;
-            label10.Location = new Point(260, 129);
+            label10.Location = new Point(260, 146);
             label10.Name = "label10";
-            label10.Size = new Size(103, 15);
+            label10.Size = new Size(114, 17);
             label10.TabIndex = 2;
             label10.Text = "DNI Seleccionado:";
             // 
             // txtDniSel
             // 
-            txtDniSel.Location = new Point(380, 126);
+            txtDniSel.Location = new Point(380, 143);
             txtDniSel.Name = "txtDniSel";
             txtDniSel.ReadOnly = true;
-            txtDniSel.Size = new Size(100, 23);
+            txtDniSel.Size = new Size(100, 25);
             txtDniSel.TabIndex = 1;
             // 
             // label8
             // 
             label8.AutoSize = true;
             label8.Font = new Font("Segoe UI", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label8.Location = new Point(285, 8);
+            label8.Location = new Point(285, 9);
             label8.Name = "label8";
             label8.Size = new Size(238, 45);
             label8.TabIndex = 0;
@@ -459,7 +457,7 @@ namespace clubd
             actNoSocio.Controls.Add(cmdVolver3);
             actNoSocio.Location = new Point(-1, 0);
             actNoSocio.Name = "actNoSocio";
-            actNoSocio.Size = new Size(802, 398);
+            actNoSocio.Size = new Size(802, 451);
             actNoSocio.TabIndex = 0;
             actNoSocio.Paint += panel5_Paint;
             // 
@@ -467,7 +465,7 @@ namespace clubd
             // 
             label9.AutoSize = true;
             label9.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label9.Location = new Point(193, 26);
+            label9.Location = new Point(193, 29);
             label9.Name = "label9";
             label9.Size = new Size(393, 37);
             label9.TabIndex = 0;
@@ -477,39 +475,43 @@ namespace clubd
             // label11
             // 
             label11.AutoSize = true;
-            label11.Location = new Point(287, 114);
+            label11.Location = new Point(287, 129);
             label11.Name = "label11";
-            label11.Size = new Size(103, 15);
+            label11.Size = new Size(114, 17);
             label11.TabIndex = 8;
             label11.Text = "DNI Seleccionado:";
             // 
             // txtDniSel2
             // 
-            txtDniSel2.Location = new Point(416, 111);
+            txtDniSel2.Location = new Point(416, 126);
             txtDniSel2.Name = "txtDniSel2";
             txtDniSel2.ReadOnly = true;
-            txtDniSel2.Size = new Size(100, 23);
+            txtDniSel2.Size = new Size(100, 25);
             txtDniSel2.TabIndex = 9;
             // 
             // cmdInsAct
             // 
             cmdInsAct.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            cmdInsAct.Location = new Point(314, 181);
+            cmdInsAct.Location = new Point(314, 205);
             cmdInsAct.Name = "cmdInsAct";
-            cmdInsAct.Size = new Size(174, 56);
+            cmdInsAct.Size = new Size(174, 63);
             cmdInsAct.TabIndex = 7;
             cmdInsAct.Text = "Inscripcion en actividad";
             cmdInsAct.UseVisualStyleBackColor = true;
             // 
             // cmdVolver3
             // 
-            cmdVolver3.Location = new Point(364, 341);
+            cmdVolver3.Location = new Point(364, 386);
             cmdVolver3.Name = "cmdVolver3";
-            cmdVolver3.Size = new Size(75, 20);
+            cmdVolver3.Size = new Size(75, 23);
             cmdVolver3.TabIndex = 6;
             cmdVolver3.Text = "Inicio";
             cmdVolver3.UseVisualStyleBackColor = true;
             cmdVolver3.Click += cmdVolver2_Click;
+            // 
+            // toolTip3
+            // 
+            toolTip3.IsBalloon = true;
             // 
             // toolTip4
             // 
@@ -517,9 +519,9 @@ namespace clubd
             // 
             // clubdep
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 397);
+            ClientSize = new Size(800, 450);
             Controls.Add(ingresoSis);
             Controls.Add(InicioAdmin);
             Controls.Add(inscCliente);
@@ -791,6 +793,5 @@ namespace clubd
         private Button cmdVolver3;
         private Label label11;
         private TextBox txtDniSel2;
-        private ToolTip toolTip6;
     }
 }
