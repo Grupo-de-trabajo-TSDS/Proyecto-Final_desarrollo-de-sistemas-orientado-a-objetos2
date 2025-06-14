@@ -522,9 +522,9 @@ namespace clubd
             AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(inscCliente);
             Controls.Add(ingresoSis);
             Controls.Add(InicioAdmin);
-            Controls.Add(inscCliente);
             Controls.Add(actSocio);
             Controls.Add(actNoSocio);
             Name = "clubdep";

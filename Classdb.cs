@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace clubd
+namespace Proyecto_Final
 {
     using MySql.Data.MySqlClient;
 
@@ -33,7 +33,7 @@ namespace clubd
                     return conn;
                     }
 
-        public ResultadoBusquedaPersona BuscarPersonaPorDni(string dni)
+        public ResultadoBusquedaPersona=BuscarPersonaPorDni(string dni)
         {
             var resultado = new ResultadoBusquedaPersona { Existe = false, EsSocio = false };
 

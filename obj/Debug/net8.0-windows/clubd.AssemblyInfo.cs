@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("clubd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e3a6fc479e4dafd82d906b5496f9a94fbedbd41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44ca2def8264c8d094df58174da87793fbb98a16")]
 [assembly: System.Reflection.AssemblyProductAttribute("clubd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("clubd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
